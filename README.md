@@ -5,7 +5,7 @@
 ### 🧠 About Me
 I earned my B.S.E. in Mechanical Engineering from Arizona State University, where I built a strong foundation in problem solving, systems thinking, design, and technical analysis. I’m now pursuing my M.S. in Business Analytics, expanding that engineering mindset into data, reporting, and decision-making.
 
-I’m especially drawn to building tools that are both practical and well designed — products that make complex information feel clear, useful, and approachable. My work is shaped by a mix of engineering discipline, analytical thinking, and a strong interest in creating systems that genuinely improve everyday life.
+I’m especially drawn to building tools that are both practical and well designed, specifically products that make complex information feel clear, useful, and approachable. My work is shaped by a mix of engineering discipline, analytical thinking, and a strong interest in creating systems that genuinely improve everyday life. 
 
 ---
 
@@ -57,7 +57,7 @@ I’m especially drawn to building tools that are both practical and well design
 ### 🌐 Connect With Me
 - [Portfolio](https://samanthaschmid.info)
 - [GitHub](https://github.com/samschmid22)
-- [LinkedIn](YOUR_LINK_HERE)
+- [LinkedIn](https://www.linkedin.com/in/samanthaschmid2/)
 
 ---
 
