@@ -3,9 +3,9 @@
 ---
 
 ### 🧠 About Me
-I’m an Arizona State University graduate with a background in Mechanical Engineering, and I’m now pursuing my M.S. in Business Analytics.  
+I earned my B.S.E. in Mechanical Engineering from Arizona State University, where I built a strong foundation in problem solving, systems thinking, design, and technical analysis. I’m now pursuing my M.S. in Business Analytics, expanding that engineering mindset into data, reporting, and decision-making.
 
-I like building tools that are useful, polished, and easy to understand — especially projects that blend thoughtful design, data, and real-life problem solving. My work sits at the intersection of analytics, product thinking, and systems that help people live and work better.
+I’m especially drawn to building tools that are both practical and well designed — products that make complex information feel clear, useful, and approachable. My work is shaped by a mix of engineering discipline, analytical thinking, and a strong interest in creating systems that genuinely improve everyday life.
 
 ---
 
