@@ -12,7 +12,7 @@ I’m especially drawn to building tools that are both practical and well design
 ### 🚀 What I’m Working On
 - 🌿 Building **The Human Reset**, a health-focused app centered on environmental awareness and better everyday choices  
 - 🗂️ Developing **RoutineOS**, a system-based life planner that turns routines into structured daily plans  
-- ✈️ Creating **travel_scrapbook**, a visual app for tracking places, memories, and future trips  
+- ✈️ Creating **Been There. Done That.**, a visual app for tracking places, memories, and future trips  
 - 📊 Strengthening my skills in **Python, SQL, analytics, dashboards, and business data tools**  
 - 🌐 Designing clean, practical apps with **Next.js, TypeScript, Supabase, and Vercel**
 
